@@ -10,7 +10,6 @@ void linearSearch(int array[],int size,int key){
             return;
         }
     }
-
     cout<<"Element not found"<<endl;
     return;
 }

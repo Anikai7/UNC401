@@ -5,7 +5,7 @@ using namespace std;
 
 void smallestN(){
     int goal,sum=0;
-    cout<<"Enter goal: "<<endl;
+    cout<<"Enter goal: ";
     cin>>goal;
 
     for(int i=0;i<=goal;i++){

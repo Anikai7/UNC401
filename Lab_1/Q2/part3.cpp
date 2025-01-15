@@ -13,7 +13,7 @@ void linearSearch(int array[],int size,int key){
 }
 
 int main(){
-    int array[] = {3,4,53,5,3,2,5,7,8,4};
+    int array[] = {1,3,2,4,7,8,9,6,5};
     int size = sizeof(array)/sizeof(array[0]);
     int key;
     cout<<"Enter key: ";
